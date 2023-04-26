@@ -1,0 +1,11 @@
+1	firstName	Keyser
+2	lastName	Soze
+3	email1	ksoze@creepy.com
+4	zipCode	90731
+5	AddressLine1	1995 Spacey Lane
+6	AddressCity	San Pedro
+7	AddressState	California
+8	PhoneNumber_Cell	212-555-1212
+9	Company	Kobayashi, Inc
+10	Title	Storyteller
+11	Credit Card	Amex 4824-954076-33132  code 1432 exp 03/17
